@@ -1,0 +1,19 @@
+{
+  "name": "wsj-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Simon Cheng",
+  "license": "ISC",
+  "dependencies": {
+    "get-hrefs": "^4.0.0",
+    "jsdom": "^15.2.0",
+    "prompt-sync": "^4.1.7",
+    "puppeteer": "^1.20.0",
+    "request": "^2.88.0"
+  }
+}
